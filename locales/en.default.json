@@ -21,7 +21,9 @@
   "customer_accounts": {
     "date": {
       "humanize": {
-        "yesterday": "Ayer a las {{time}}"
+        "yesterday": "Ayer a las {{time}}",
+        "lessThanOneWeekAgo": "{{weekday}} a las {{time}}",
+        "today": "Hoy a las {{time}}"
       }
     }
   }
