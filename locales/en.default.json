@@ -17,5 +17,12 @@
         "all_rights_reserved": "Todos los derechos reservados a {{shop_name}}"
       }
     }
+  },
+  "customer_accounts": {
+    "date": {
+      "humanize": {
+        "yesterday": "Ayer a las {{time}}"
+      }
+    }
   }
 }
