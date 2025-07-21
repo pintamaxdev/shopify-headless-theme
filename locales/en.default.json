@@ -7,4 +7,15 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{}
+{
+  "shopify": {
+    "checkout": {
+      "address_management": {
+        "confirm_address_deletion": "Esta seguro que desea borrar la direccion? {{address}}"
+      },
+      "general": {
+        "all_rights_reserved": "Todos los derechos reservados a {{shop_name}}"
+      }
+    }
+  }
+}
