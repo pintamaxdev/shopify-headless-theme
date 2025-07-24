@@ -169,7 +169,14 @@
             "proposed_allocations_required": "Falta el campo 'asignaciones propuestas'.",
             "merchandise_terms_must_be_defined": "Se deben definir los términos de la mercancía.",
             "delivery_terms_must_be_defined": "Se deben definir los términos de entrega.",
-            "merchandise_discount_terms_must_be_defined": "Se deben definir los términos de descuento de mercancías."
+            "merchandise_discount_terms_must_be_defined": "Se deben definir los términos de descuento de mercancías.",
+            "delivery_discount_terms_must_be_defined": "Se deben definir las condiciones de descuento de entrega.",
+            "allocated_required": "Falta el campo 'asignado'.",
+            "value_required": "Falta el campo 'valor'.",
+            "line_splits_not_supported": "El campo de líneas de mercancía debe dividirse de tal manera que cada una tenga un único componente de línea en el conjunto."
+          },
+          "payment": {
+            "manual_payments_not_allowed_for_b2b": "No se permiten pagos manuales en tiendas B2B."
           }
         }
       }
