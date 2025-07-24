@@ -176,7 +176,17 @@
             "line_splits_not_supported": "El campo de líneas de mercancía debe dividirse de tal manera que cada una tenga un único componente de línea en el conjunto."
           },
           "payment": {
-            "manual_payments_not_allowed_for_b2b": "No se permiten pagos manuales en tiendas B2B."
+            "manual_payments_not_allowed_for_b2b": "No se permiten pagos manuales en tiendas B2B.",
+            "positive_amount_expected": "El importe a pagar debe ser mayor a 0.",
+            "total_amount_mismatch": "El total a pagar no coincide con la suma del importe de los pagos.",
+            "subscription_terms_not_accepted": "No se aceptan términos de suscripción.",
+            "missing_session_id": "Falta información de la sesión de la tarjeta de crédito.",
+            "gateway_not_supported": "La pasarela de pago no admite el almacenamiento del método de pago.",
+            "credit_card_last_name_required": "'apellido' no puede ser nulo.",
+            "credit_card_update_failed": "Error en la actualización de la tarjeta de crédito.",
+            "installments_amount_invalid": "Monto no válido para transacción de Cuotas.",
+            "installments_test_mode_not_allowed": "Modo de prueba no permitido.",
+            "installments_gift_card_not_allowed": "Las cuotas no permiten el uso de tarjetas de regalo."
           }
         }
       }
