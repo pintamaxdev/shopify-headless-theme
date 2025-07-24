@@ -207,7 +207,18 @@
             "payment_instrument_not_found": "No se pudo encontrar el método de pago",
             "unauthorized_capture_method": "No está permitido configurar el método de captura de pago.",
             "saved_payment_methods_not_allowed": "No se permiten métodos de pago guardados.",
-            "saved_payment_methods_not_enabled": "Los métodos de pago guardados no están habilitados para esta tienda."
+            "saved_payment_methods_not_enabled": "Los métodos de pago guardados no están habilitados para esta tienda.",
+            "saved_payment_methods_cvv_verification_disabled": "El método de pago seleccionado requiere verificación CVV, que no está habilitada para esta tienda.",
+            "store_credit_not_enabled": "El crédito de la tienda no está habilitado para esta tienda.",
+            "store_credit_account_not_found": "Cuenta de crédito de la tienda no encontrada.",
+            "store_credit_account_mismatch": "La cuenta de crédito de la tienda no coincide con la identidad del comprador.",
+            "store_credit_mismatched_currency": "La moneda de la cuenta de crédito de la tienda no coincide con la moneda de pago.",
+            "store_credit_insufficient_funds": "No hay fondos suficientes en la cuenta de crédito de la tienda.",
+            "store_credit_buying_gift_card": "No puedes usar crédito de la tienda para comprar una tarjeta de regalo.",
+            "gift_cards_not_allowed_for_b2b": "No se permiten tarjetas de regalo en las tiendas B2B.",
+            "method_required": "Se deberá proponer un método de pago.",
+            "paypal_express_address_invalid": "PayPal devolvió una dirección no válida.",
+            "shop_cash_unsupported_currency": "Shop Cash no admite esta moneda."
           }
         }
       }
