@@ -218,7 +218,21 @@
             "gift_cards_not_allowed_for_b2b": "No se permiten tarjetas de regalo en las tiendas B2B.",
             "method_required": "Se deberá proponer un método de pago.",
             "paypal_express_address_invalid": "PayPal devolvió una dirección no válida.",
-            "shop_cash_unsupported_currency": "Shop Cash no admite esta moneda."
+            "shop_cash_unsupported_currency": "Shop Cash no admite esta moneda.",
+            "market_manager_blocks_wallet_payments": "El administrador del mercado no admite métodos de pago."
+          },
+          "tip": {
+            "not_accepted_by_shop": "La tienda no acepta propinas.",
+            "only_one_tip_line_allowed": "No se admiten líneas de sugerencias múltiples.",
+            "tips_not_allowed_for_b2b": "No se permiten propinas en las tiendas B2B.",
+            "currency_change_reset": "La propina se ha restablecido debido al cambio de moneda.",
+            "tips_not_allowed_for_deferred_purchase_options": "Las propinas aún no son compatibles con las opciones de compra diferida."
+          },
+          "sale_attribution": {
+            "draft_order_not_exist": "Este borrador de pedido no existe en la tienda actual.",
+            "staff_member_not_exist": "Este personal no existe en la tienda actual.",
+            "location_not_exist": "Esta ubicación no existe en la tienda actual.",
+            "point_of_sale_device_not_exist": "Este dispositivo de punto de venta no existe en la tienda actual."
           }
         }
       }
