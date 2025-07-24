@@ -85,7 +85,17 @@
             "merchandise_not_found": "Producto no encontrado.",
             "merchandise_not_applicable": "La variante del producto no se puede comprar.",
             "mixed_currencies": "El pago contiene articulos de linea con diferentes monedas",
-            "bundle_products_not_supported_for_b2b": "No se pueden agregar artículos agrupados a los pedidos B2B para esta ubicación."
+            "bundle_products_not_supported_for_b2b": "No se pueden agregar artículos agrupados a los pedidos B2B para esta ubicación.",
+            "gift_card_quantity_mismatch": "Al especificar códigos de tarjetas de regalo, se debe incluir la cantidad del artículo de línea y la cantidad de códigos de tarjetas de regalo.",
+            "gift_card_not_supported": "Las tarjetas de regalo no son compatibles con este proceso de pago.",
+            "gift_card_not_unique": "La tarjeta de regalo con el código {{code}} aparece más de una vez en este proceso de pago. Los códigos tienen el formato bed.",
+            "gift_card_used": "El código de tarjeta de regalo ((código)} ya está asignado a una tarjeta de regalo. Los códigos se formatean antes de compararlos.",
+            "gift_card_invalid": "El código de tarjeta de regalo {{code}} no es válido.",
+            "gift_card_code_changed": "El código de la tarjeta de regalo {{proposed code}} se cambió a {{formatted code}} para adaptarse al formato.",
+            "gift_card_with_attributes_not_supported": "Las tarjetas de regalo con atributos personalizados no son compatibles con este proceso de pago.",
+            "gift_card_with_components_not_supported": "Las tarjetas de regalo con componentes no son compatibles con este proceso de pago.",
+            "selling_plan_mismatch": "La suscripción ha sido actualizada.",
+            "selling_plan_not_supported": "No se admiten suscripciones."
           }
         }
       }
