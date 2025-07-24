@@ -95,7 +95,28 @@
             "gift_card_with_attributes_not_supported": "Las tarjetas de regalo con atributos personalizados no son compatibles con este proceso de pago.",
             "gift_card_with_components_not_supported": "Las tarjetas de regalo con componentes no son compatibles con este proceso de pago.",
             "selling_plan_mismatch": "La suscripción ha sido actualizada.",
-            "selling_plan_not_supported": "No se admiten suscripciones."
+            "selling_plan_not_supported": "No se admiten suscripciones.",
+            "selling_plan_not_supported_b2b": "Las suscripciones no son compatibles con el pago B2B.",
+            "price_mismatch": "El precio propuesto anteriormente para esta mercancía no era válido y se ha actualizado.",
+            "inventory_not_found": "No se encontró inventario para esta mercancía.",
+            "product_not_published": "El producto no está publicado.",
+            "product_not_published_in_buyer_location": "El producto no está publicado en la ubicación del comprador.",
+            "duplicated_stable_id": "Esta línea de mercancías tiene el mismo ID estable que otra línea.",
+            "minimum_quantity_not_met": "La cantidad de algunos artículos no cumple con el mínimo requerido.",
+            "maximum_quantity_exceeded": "La cantidad de algunos artículos excede el máximo permitido.",
+            "quantity_increment_not_met": "La dualidad de algunos artículos no cumple con los límites del pedido.",
+            "quantity_rules_not_met": "La cantidad de algunos artículos no cumple con los límites del pedido.",
+            "bundle_requires_components": "Este paquete de mercancía no tiene componentes.",
+            "title_too_long": "El título de la mercancía es demasiado largo.",
+            "title_empty": "El título de la mercancía está vacío."
+          },
+          "buyer_identity": {
+            "business_customer_does_not_match_company": "El contacto de la empresa no tiene acceso a la empresa.",
+            "customer_account_required": "El cliente debe iniciar sesión para continuar.",
+            "company_location_required": "El cliente debe elegir la ubicación de una empresa para continuar.",
+            "company_purchase_permission_required": "El cliente no tiene permiso para realizar pedidos a la empresa.",
+            "personal_order_not_allowed": "No se permiten pedidos personales para esta tienda.",
+            "lost_access_to_company": "El cliente perdió el acceso a cualquier empresa."
           }
         }
       }
