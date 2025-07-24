@@ -307,6 +307,13 @@
             "november": "Nobiembre",
             "december": "Diciembre"
           }
+        },
+        "datepicker": {
+          "show_previous_month": "Muestra el mes anterior, {{month}} {{year}}.",
+          "show_next_month": "Muestra el próximo mes {{month}} {{year}}.",
+          "range_start": "Inicio de rango",
+          "in_range": "En rango ",
+          "range_end": "Final de rango"
         }
       }
     },
