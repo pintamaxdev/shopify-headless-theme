@@ -402,7 +402,18 @@
         "postal_code_placeholder": "Código postal (opcional)",
         "postcode_label": "Código postal",
         "optional_postcode_label": "Código postal (opcional)",
-        "postcode_placeholder": "Código postal"
+        "postcode_placeholder": "Código postal",
+        "pincode_label": "Código PIN",
+        "optional_pincode_label": "Código PIN (opcional)",
+        "pincode_placeholder": "Código PIN",
+        "civic_number_warning": "Agregue un número de casa si tiene uno",
+        "optional_last_name_label": "Apellido (opcional)",
+        "company_contact_info": "{{CompanyName}} • {{Contact}}",
+        "different_shipping_address_label": "Enviar a una dirección diferente",
+        "different_shipping_address_text": "Use una dirección única para este pedido",
+        "change_company_location_link_label": "Cambiar la ubicación de la empresa",
+        "change_location_link_label": "Cambiar ubicación",
+        "ship_to_company": "Enviar a {{CompanyName}}"
       }
     },
     "sentence": {
