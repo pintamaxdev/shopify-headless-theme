@@ -71,7 +71,23 @@
         "submit": "Entregar",
         "processing": "Tratamiento...",
         "remove_item": "Eliminar {{ label }}",
-        "remove_tag": "Quitar etiqueta"
+        "remove_tag": "Quitar etiqueta",
+        "checkout_context": {
+          "step_one": "{{ shop_name }} - verificar "
+        },
+        "errors": {
+          "only_empty_terms_accepted": "Esta política sólo acepta términos vacíos.",
+          "session_identifier_not_unique_error": "Algo salió mal con tu pedido, por favor intenta realizar el pago nuevamente.",
+          "line_item_limit_reached": "Se ha alcanzado el número máximo de artículos de línea.",
+          "session_is_already_finished": "Esta sesión de pago ya ha sido finalizada.",
+          "merchandise": {
+            "only_value_constraint": "Sólo se permiten valores exactos en la entrada de mercancía.",
+            "merchandise_not_found": "Producto no encontrado.",
+            "merchandise_not_applicable": "La variante del producto no se puede comprar.",
+            "mixed_currencies": "El pago contiene articulos de linea con diferentes monedas",
+            "bundle_products_not_supported_for_b2b": "No se pueden agregar artículos agrupados a los pedidos B2B para esta ubicación."
+          }
+        }
       }
     },
     "sentence": {
