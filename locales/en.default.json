@@ -260,6 +260,52 @@
             "token_expired": "El token captcha proporcionado ha expirado. Complete un nuevo Captcha para continuar con el pago.",
             "token_invalid": "El token captcha proporcionado ha expirado. Complete un nuevo Captcha para continuar con el pago.",
             "token_not_valid_for_session": "El captcha proporcionado no se puede usar con este pago."
+          },
+          "fx_reconciliation_override": {
+            "shop_currency_mismatch": "La cantidad recibida debe estar en la moneda de la tienda."
+          },
+          "checkout_source": {
+            "revoked": "Este pago ya no está disponible."
+          }
+        },
+        "stepper": {
+          "increase": "Crecimiento {{tipo}}",
+          "decrease": "Disminución {{tipo}}",
+          "minimum_reached": "Mínimo de {{valor}} alcanzado",
+          "maximum_reached": "Máximo de {{valor}} alcanzado"
+        },
+        "dates": {
+          "weekdays": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miercoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sábado",
+            "sunday": "Domingo "
+          },
+          "weekdays_abbreviation": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miercoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sábado ",
+            "sunday": "Domingo "
+          },
+          "months": {
+            "january": "Enero",
+            "february": "Febrero",
+            "march": "Marzo",
+            "april": "Abril ",
+            "may": "Mayo",
+            "june": "Junio",
+            "july": "Julio",
+            "august": "Agosto",
+            "september": "septiembre",
+            "october": "Octubre",
+            "november": "Nobiembre",
+            "december": "Diciembre"
           }
         }
       }
