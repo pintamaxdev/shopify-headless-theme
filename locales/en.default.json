@@ -391,7 +391,18 @@
         "state_and_territory_label": "Estado/territorio",
         "state_and_territory_placeholder": "Estado/territorio",
         "phone_label": "Teléfono",
-        "optional_phone_label": "Teléfono (opcional)"
+        "optional_phone_label": "Teléfono (opcional)",
+        "phone_placeholder": "Telefono",
+        "phone_tooltip": "En caso de que necesitemos contactarlo sobre su pedido.",
+        "zip_code_label": "Código postal",
+        "optional_zip_code_label": "Código postal",
+        "zip_code_placeholder": "Código postal (opcional)",
+        "postal_code_label": "Código postal",
+        "optional_postal_code_label": "Código postal",
+        "postal_code_placeholder": "Código postal (opcional)",
+        "postcode_label": "Código postal",
+        "optional_postcode_label": "Código postal (opcional)",
+        "postcode_placeholder": "Código postal"
       }
     },
     "sentence": {
