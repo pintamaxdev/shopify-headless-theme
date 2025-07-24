@@ -158,6 +158,18 @@
             "additional_requested_discount_discarded": "Tu descuento es válido, pero no aplicable. Consulta las condiciones del descuento.",
             "allocations_mismatch": "Tu código de descuento ha cambiado. Revisa tu carrito y vuelve a intentarlo.",
             "discount_title_too_long": "El título del descuento no puede tener más de 255 caracteres."
+          },
+          "tax": {
+            "new_tax_must_be_accepted": "Los impuestos asociados a tu pedido han cambiado. Revísalos y vuelve a intentarlo.",
+            "unresolvable_tax_terms": "Los términos propuestos son irresolubles dado el actual contexto de negociación.",
+            "delivery_price_is_abstract": "El precio de envío relacionado es abstracto.",
+            "tax_inclusivity_mismatch": "Renegociar con el valor total concreto de TaxAndDutyAmount o totalAmountincludedInTarget.",
+            "tax_exemption_not_supported": "Las exenciones de impuestos no se admiten para la sesión de negociación actual.",
+            "delivery_tax_exemption_not_supported": "Actualmente no se admiten exenciones de impuestos para líneas de entrega.",
+            "proposed_allocations_required": "Falta el campo 'asignaciones propuestas'.",
+            "merchandise_terms_must_be_defined": "Se deben definir los términos de la mercancía.",
+            "delivery_terms_must_be_defined": "Se deben definir los términos de entrega.",
+            "merchandise_discount_terms_must_be_defined": "Se deben definir los términos de descuento de mercancías."
           }
         }
       }
