@@ -120,7 +120,24 @@
             "contact_info_does_not_match_customer_account": "La información del cliente especificada debe coincidir con la cuenta del cliente iniciada sesión.",
             "phone_number_does_not_match_expected_pattern": "El número de teléfono especificado no coincide con el patrón esperado.",
             "email_required": "Se requiere un correo electrónico cuando la mercancía se compra mediante una suscripción.",
-            "email_domain_is_invalid": "Este dominio especificado no se puede resolver."
+            "email_domain_is_invalid": "Este dominio especificado no se puede resolver.",
+            "missing_contact_method": "Falta un método de contacto válido.",
+            "checkout_completion_target_is_missing": "Falta el objetivo de finalización del pago.",
+            "invalid_customer_profile": "Se proporcionó un perfil de cliente no válido.",
+            "customer_profile_access_restricted": "la caja no tiene permiso para acceder al perfil del cliente.",
+            "checkout_completion_target_is_invalid_proc": "Objetivo de finalización de pago no válido.",
+            "buyer_identity_presentment_currency_does_not_match": "Hubo un problema al procesar tu pedido. Inténtalo de nuevo en unos minutos."
+          },
+          "delivery": {
+            "only_one_delivery_line_allowed": "El carrito debe tener solo una línea de entrega.",
+            "wrong_number_of_delivery_lines": "Se debe especificar una línea de entrega para cada grupo de mercancías.",
+            "external_delivery_promise_error": "Un error en la obtención de la promesa de entrega externa.",
+            "options_instructions_invalid": "Las instrucciones especificadas no coinciden con el patrón esperado.",
+            "destination_address_required": "Se requiere una dirección de destino para continuar.",
+            "pickup_points_unavailable": "Los puntos de recogida no están disponibles actualmente.",
+            "local_pickup_delivery_line_detail_changed": "La actual estrategia de entrega de recogida local debe cambiarse para poder continuar.",
+            "local_pickup_no_delivery_strategy_available": "No se encontró ninguna estrategia de entrega de recogida local disponible.",
+            "origin_location_id_required": "Se requiere un ID de ubicación de origen cuando se solicita el método de entrega MINORISTA."
           }
         }
       }
