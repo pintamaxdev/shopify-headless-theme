@@ -186,7 +186,18 @@
             "credit_card_update_failed": "Error en la actualización de la tarjeta de crédito.",
             "installments_amount_invalid": "Monto no válido para transacción de Cuotas.",
             "installments_test_mode_not_allowed": "Modo de prueba no permitido.",
-            "installments_gift_card_not_allowed": "Las cuotas no permiten el uso de tarjetas de regalo."
+            "installments_gift_card_not_allowed": "Las cuotas no permiten el uso de tarjetas de regalo.",
+            "installments_unsupported_currency": "Las cuotas no admiten esta moneda.",
+            "installments_unsupported_shipping": "Cuotas no admiten envíos a esta dirección.",
+            "installments_unsupported_billing": "Las cuotas no admiten esta dirección de facturación.",
+            "installments_unsupported_subscriptions": "Las cuotas no admiten suscripciones.",
+            "installments_ineligible_line_item": "Las cuotas están deshabilitadas para una línea de artículo en esta compra.",
+            "shop_cash_not_found": "No se encontró Shop Cash.",
+            "shop_cash_not_allowed": "No se permite efectivo en tienda sin Shop Pay.",
+            "shop_cash_unsupported_checkout_source": "Shop Cash no admite este pago.",
+            "shop_cash_gift_card_not_allowed": "Shop Cash no permite la compra de tarjetas de regalo.",
+            "shop_cash_not_enabled": "El efectivo de la tienda no está habilitado para esta tienda",
+            "shop_cash_not_available": "No se admite Shop Cash en este proceso de pago."
           }
         }
       }
