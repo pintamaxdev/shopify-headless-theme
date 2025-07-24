@@ -137,7 +137,9 @@
             "pickup_points_unavailable": "Los puntos de recogida no están disponibles actualmente.",
             "local_pickup_delivery_line_detail_changed": "La actual estrategia de entrega de recogida local debe cambiarse para poder continuar.",
             "local_pickup_no_delivery_strategy_available": "No se encontró ninguna estrategia de entrega de recogida local disponible.",
-            "origin_location_id_required": "Se requiere un ID de ubicación de origen cuando se solicita el método de entrega MINORISTA."
+            "origin_location_id_required": "Se requiere un ID de ubicación de origen cuando se solicita el método de entrega MINORISTA.",
+            "invalid_origin_location_id": "No se pudo encontrar una ubicación que coincida con el ID de ubicación de origen.",
+            "origin_location_id_not_allowed": "Los métodos de entrega solicitados no admiten una identificación de ubicación de origen."
           }
         }
       }
