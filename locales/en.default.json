@@ -377,7 +377,21 @@
         "province_placeholder": "Provincia",
         "county_label": "Condado",
         "county_placeholder": "Condado",
-        "state_label": "Estado"
+        "state_label": "Estado",
+        "state_placeholder": "Estado",
+        "region_label": "Región",
+        "region_placeholder": "Región",
+        "region_none": "Ninguno seleccionado",
+        "prefecture_label": "Prefectura",
+        "prefecture_placeholder": "Prefectura",
+        "governorate_label": "Gobernación ",
+        "governorate_placeholder": "Gobernación ",
+        "emirate_label": "Emirato",
+        "emirate_placeholder": "Emirato",
+        "state_and_territory_label": "Estado/territorio",
+        "state_and_territory_placeholder": "Estado/territorio",
+        "phone_label": "Teléfono",
+        "optional_phone_label": "Teléfono (opcional)"
       }
     },
     "sentence": {
