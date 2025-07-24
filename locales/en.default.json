@@ -248,7 +248,18 @@
             "optional_duties_not_permitted": "No se permite el rechazo de deberes para este proceso de pago."
           },
           "attribution": {
-            "retail_attribution_not_allowed": "No se permite la atribución minorista para este proceso de pago."
+            "retail_attribution_not_allowed": "No se permite la atribución minorista para este proceso de pago.",
+            "retail_attribution_required": "Se requiere una atribución minorista para este pago."
+          },
+          "captcha": {
+            "metadata_missing": "Se requiere completar un captcha para este pago.",
+            "metadata_mismatch": "Siempre que el proveedor y el tipo de CaptCha no coincidan con los valores esperados.",
+            "token_missing": "Se debe proporcionar un token de Captcha para completar este pago.",
+            "job_enqueue_failed": "El trabajo de validación de Captcha no pudo ser enqueado.",
+            "job_already_queued": "La validación de Captcha ya ha sido cola para este token Captcha.",
+            "token_expired": "El token captcha proporcionado ha expirado. Complete un nuevo Captcha para continuar con el pago.",
+            "token_invalid": "El token captcha proporcionado ha expirado. Complete un nuevo Captcha para continuar con el pago.",
+            "token_not_valid_for_session": "El captcha proporcionado no se puede usar con este pago."
           }
         }
       }
