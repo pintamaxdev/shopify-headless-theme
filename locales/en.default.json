@@ -143,7 +143,12 @@
             "auto_fulfill_not_allowed": "Esta sesión no está autorizada para anular el comportamiento de cumplimiento.",
             "auto_fulfill_required": "El cumplimiento automático es necesario cuando se solicita el método de entrega MINORISTA.",
             "prefetch_shipping_rates_used": "Las tarifas de envío pre-obtenidas nunca deben devolver tarifas.",
-            "fulfillment_constraints_not_satisfied": "No se cumplieron una o más restricciones de cumplimiento."
+            "fulfillment_constraints_not_satisfied": "No se cumplieron una o más restricciones de cumplimiento.",
+            "must_fulfill_from_constraint_not_satisfied": "Las restricciones de cumplimiento no se satisfacen porque los artículos no se pueden entregar desde la ubicación requerida.",
+            "must_fulfill_from_same_location_constraint_not_satisfied": "Las restricciones de cumplimiento no se satisfacen porque los artículos no se pueden cumplir desde la misma ubicación.",
+            "delivery_strategy_conditions_not_satisfied": "Existen estrategias de entrega disponibles para esta ubicación, pero no se cumplen sus condiciones.",
+            "out_of_stock_at_origin_location": "Sin stock en el lugar de origen.",
+            "invalid_signature": "Firma de descuento no válida."
           }
         }
       }
