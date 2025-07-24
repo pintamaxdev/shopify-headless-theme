@@ -149,6 +149,15 @@
             "delivery_strategy_conditions_not_satisfied": "Existen estrategias de entrega disponibles para esta ubicación, pero no se cumplen sus condiciones.",
             "out_of_stock_at_origin_location": "Sin stock en el lugar de origen.",
             "invalid_signature": "Firma de descuento no válida."
+          },
+          "discount": {
+            "discounts_not_allowed_for_b2b": "No se permiten descuentos en tiendas B2B.",
+            "custom_discount_not_honoured": "No se respetó el descuento personalizado proporcionado.",
+            "unsupported_expectation": "La línea de descuento suministrada contenía una expectativa que la política no podía interpretar.",
+            "additional_requested_discount_code_discarded": "{{code}} es válido, pero no aplicable. Consulta las condiciones del descuento.",
+            "additional_requested_discount_discarded": "Tu descuento es válido, pero no aplicable. Consulta las condiciones del descuento.",
+            "allocations_mismatch": "Tu código de descuento ha cambiado. Revisa tu carrito y vuelve a intentarlo.",
+            "discount_title_too_long": "El título del descuento no puede tener más de 255 caracteres."
           }
         }
       }
