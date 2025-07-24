@@ -232,7 +232,8 @@
             "draft_order_not_exist": "Este borrador de pedido no existe en la tienda actual.",
             "staff_member_not_exist": "Este personal no existe en la tienda actual.",
             "location_not_exist": "Esta ubicación no existe en la tienda actual.",
-            "point_of_sale_device_not_exist": "Este dispositivo de punto de venta no existe en la tienda actual."
+            "point_of_sale_device_not_exist": "Este dispositivo de punto de venta no existe en la tienda actual.",
+            "unresolvable_target_merchandise_lines": "La atribución de venta propuesta resulta irresoluble dado el actual contexto de negociación."
           }
         }
       }
