@@ -357,7 +357,17 @@
         "email_placeholder": "Correo",
         "email_or_phone_label": "Correo electrónico o número de teléfono móvil",
         "email_or_phone_placeholder": "Correo electrónico o número de teléfono móvil",
-        "stored_addresses_label": "Direcciones guardadas"
+        "stored_addresses_label": "Direcciones guardadas",
+        "available_addresses_label": "Direcciones disponibles",
+        "new_address_label": "Utilice una nueva dirección",
+        "first_name_label": "Nombre de pila ",
+        "optional_first_name_label": "Nombre (opcional)",
+        "last_name_label": "Apellido ",
+        "company_label": "Compañía ",
+        "company_attention_label": "Empresa/atención",
+        "optional_company_attention_label": "Empresa/atención (opcional)",
+        "optional_company_label": "Compañía (opcional)",
+        "address1_label": "Dirección "
       }
     },
     "sentence": {
