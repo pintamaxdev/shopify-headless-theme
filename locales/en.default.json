@@ -234,6 +234,21 @@
             "location_not_exist": "Esta ubicación no existe en la tienda actual.",
             "point_of_sale_device_not_exist": "Este dispositivo de punto de venta no existe en la tienda actual.",
             "unresolvable_target_merchandise_lines": "La atribución de venta propuesta resulta irresoluble dado el actual contexto de negociación."
+          },
+          "non_negotiable": {
+            "missing_non_negotiable_terms": "La propuesta de su comprador debe contener términos no negociables.",
+            "invalid_signature": "La firma de {{target _terms}} no es válida."
+          },
+          "inventory": {
+            "missing_quantity_value": "Falta el campo de cantidad en las líneas de inventario del comprador.",
+            "changing_behavior_not_allowed": "Este cliente no tiene permiso para cambiar el comportamiento del inventario.",
+            "only_one_inventory_behavior_allowed": "Actualmente solo se permite un comportamiento de inventario por pago."
+          },
+          "optional_duties": {
+            "optional_duties_not_permitted": "No se permite el rechazo de deberes para este proceso de pago."
+          },
+          "attribution": {
+            "retail_attribution_not_allowed": "No se permite la atribución minorista para este proceso de pago."
           }
         }
       }
