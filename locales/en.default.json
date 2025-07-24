@@ -414,6 +414,16 @@
         "change_company_location_link_label": "Cambiar la ubicación de la empresa",
         "change_location_link_label": "Cambiar ubicación",
         "ship_to_company": "Enviar a {{CompanyName}}"
+      },
+      "delivery_options": {
+        "free_total_label": "Gratis",
+        "ship": "Envió",
+        "ship_to_address": "Envió domicilio ",
+        "shipping_address": "Dirección de envío",
+        "pick_up": "Recogida",
+        "pick_up_from_store": "Recogida en tienda ",
+        "pick_up_locations": "Ubicaciones de tienda",
+        "pick_up_in_one_hour": "Recogida en 1 hora "
       }
     },
     "sentence": {
