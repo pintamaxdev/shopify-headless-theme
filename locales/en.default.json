@@ -197,7 +197,17 @@
             "shop_cash_unsupported_checkout_source": "Shop Cash no admite este pago.",
             "shop_cash_gift_card_not_allowed": "Shop Cash no permite la compra de tarjetas de regalo.",
             "shop_cash_not_enabled": "El efectivo de la tienda no está habilitado para esta tienda",
-            "shop_cash_not_available": "No se admite Shop Cash en este proceso de pago."
+            "shop_cash_not_available": "No se admite Shop Cash en este proceso de pago.",
+            "shop_cash_unsupported_subscriptions": "Shop Cash no admite suscripciones.",
+            "shop_cash_unsupported_shipping": "Shop Cash no admite mercancías sin envío.",
+            "missing_retail_attributions": "El tipo de dirección proporcionado no es válido para este método de pago.",
+            "unexpected_retail_attributions": "Se requieren atribuciones minoristas para los pagos con tarjeta de crédito ingresados manualmente.",
+            "invalid_card_source": "Esta sesión no tiene permiso para utilizar esta fuente de tarjeta.",
+            "wallet_content_missing": "Falta el contenido de la billetera.",
+            "payment_instrument_not_found": "No se pudo encontrar el método de pago",
+            "unauthorized_capture_method": "No está permitido configurar el método de captura de pago.",
+            "saved_payment_methods_not_allowed": "No se permiten métodos de pago guardados.",
+            "saved_payment_methods_not_enabled": "Los métodos de pago guardados no están habilitados para esta tienda."
           }
         }
       }
