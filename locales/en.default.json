@@ -139,7 +139,11 @@
             "local_pickup_no_delivery_strategy_available": "No se encontró ninguna estrategia de entrega de recogida local disponible.",
             "origin_location_id_required": "Se requiere un ID de ubicación de origen cuando se solicita el método de entrega MINORISTA.",
             "invalid_origin_location_id": "No se pudo encontrar una ubicación que coincida con el ID de ubicación de origen.",
-            "origin_location_id_not_allowed": "Los métodos de entrega solicitados no admiten una identificación de ubicación de origen."
+            "origin_location_id_not_allowed": "Los métodos de entrega solicitados no admiten una identificación de ubicación de origen.",
+            "auto_fulfill_not_allowed": "Esta sesión no está autorizada para anular el comportamiento de cumplimiento.",
+            "auto_fulfill_required": "El cumplimiento automático es necesario cuando se solicita el método de entrega MINORISTA.",
+            "prefetch_shipping_rates_used": "Las tarifas de envío pre-obtenidas nunca deben devolver tarifas.",
+            "fulfillment_constraints_not_satisfied": "No se cumplieron una o más restricciones de cumplimiento."
           }
         }
       }
