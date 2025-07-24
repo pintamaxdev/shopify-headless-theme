@@ -314,6 +314,23 @@
           "range_start": "Inicio de rango",
           "in_range": "En rango ",
           "range_end": "Final de rango"
+        },
+        "list_formatter": {
+          "and": {
+            "wordConnector": "{{previousWords}}, {{anotherWord}}",
+            "lastWordConnector": "{{previousWords}}, y {{lastWord}}",
+            "twoWordConnector": "{{firstWord}} y {{secondWord}}"
+          },
+          "or": {
+            "wordConnector": "{{previousWords}}, {{anotherWord}}",
+            "lastWordConnector": "{{previousWords}}, o {{lastWord}}",
+            "twoWordConnector": "{{firstWord}} o {{secondWord}}"
+          },
+          "narrow": {
+            "wordConnector": "{{previousWords}}, {{anotherWord}}",
+            "lastWordConnector": "{{previousWords}}, {{lastWord}}",
+            "twoWordConnector": "{{firstWord}}, {{secondWord}}"
+          }
         }
       }
     },
