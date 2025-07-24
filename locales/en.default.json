@@ -348,7 +348,16 @@
         }
       },
       "contact": {
-        "title": "Información"
+        "title": "Información",
+        "address_title": "Dirección ",
+        "shipping_used_as_billing_notice": "Esto también se utilizará como su dirección de facturación para este pedido.",
+        "delivery_option_title": "Método de entrega",
+        "contact_method_title": "Contacto",
+        "email_label": "Corrreo",
+        "email_placeholder": "Correo",
+        "email_or_phone_label": "Correo electrónico o número de teléfono móvil",
+        "email_or_phone_placeholder": "Correo electrónico o número de teléfono móvil",
+        "stored_addresses_label": "Direcciones guardadas"
       }
     },
     "sentence": {
