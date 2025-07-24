@@ -367,7 +367,17 @@
         "company_attention_label": "Empresa/atención",
         "optional_company_attention_label": "Empresa/atención (opcional)",
         "optional_company_label": "Compañía (opcional)",
-        "address1_label": "Dirección "
+        "address1_label": "Dirección ",
+        "address2_label": "Apartamento, suite, etc. ",
+        "optional_address2_label": "Apartamento, suite, etc. (opcional)",
+        "city_label": "Ciudad",
+        "country_label": "País/región",
+        "country_code": "Código de País/región.",
+        "province_label": "Provincia ",
+        "province_placeholder": "Provincia",
+        "county_label": "Condado",
+        "county_placeholder": "Condado",
+        "state_label": "Estado"
       }
     },
     "sentence": {
