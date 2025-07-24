@@ -116,7 +116,11 @@
             "company_location_required": "El cliente debe elegir la ubicación de una empresa para continuar.",
             "company_purchase_permission_required": "El cliente no tiene permiso para realizar pedidos a la empresa.",
             "personal_order_not_allowed": "No se permiten pedidos personales para esta tienda.",
-            "lost_access_to_company": "El cliente perdió el acceso a cualquier empresa."
+            "lost_access_to_company": "El cliente perdió el acceso a cualquier empresa.",
+            "contact_info_does_not_match_customer_account": "La información del cliente especificada debe coincidir con la cuenta del cliente iniciada sesión.",
+            "phone_number_does_not_match_expected_pattern": "El número de teléfono especificado no coincide con el patrón esperado.",
+            "email_required": "Se requiere un correo electrónico cuando la mercancía se compra mediante una suscripción.",
+            "email_domain_is_invalid": "Este dominio especificado no se puede resolver."
           }
         }
       }
