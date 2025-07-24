@@ -331,7 +331,24 @@
             "lastWordConnector": "{{previousWords}}, {{lastWord}}",
             "twoWordConnector": "{{firstWord}}, {{secondWord}}"
           }
+        },
+        "map": {
+          "cluster_title": {
+            "one": "Clúster de {{number}} marcador.",
+            "other": "Clúster de marcadores {{number}}."
+          }
+        },
+        "sheet": {
+          "expand": "Expandir"
+        },
+        "dropzone": {
+          "add_file": "Agregar archivo",
+          "invalid_file_type": "Tipo de archivo no compatible",
+          "dragged_over": "Soltar el archivo para cargar"
         }
+      },
+      "contact": {
+        "title": "Información"
       }
     },
     "sentence": {
