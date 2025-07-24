@@ -423,7 +423,34 @@
         "pick_up": "Recogida",
         "pick_up_from_store": "Recogida en tienda ",
         "pick_up_locations": "Ubicaciones de tienda",
-        "pick_up_in_one_hour": "Recogida en 1 hora "
+        "pick_up_in_one_hour": "Recogida en 1 hora ",
+        "pick_up_in_two_hours": "Generalmente listo en 2 horas",
+        "pick_up_in_four_hours": "Generalmente listo en 4 horas",
+        "pick_up_in_twenty_four_hours": "Generalmente listo en 24 horas",
+        "pick_up_in_two_to_four_days": "Generalmente listo en 2-4 días",
+        "pick_up_in_five_or_more_days": "Generalmente listo en 5 o más días",
+        "pick_up_in_zero_to_two_hours": "Listo para recoger en 2 horas",
+        "pick_up_in_two_to_four_hours": "Listo para recoger en 4 horas",
+        "pick_up_immediately": "Listo para recoger ahora",
+        "pick_up_next_day": "Listo para recoger al día siguiente",
+        "pickup_point_method_definition": "Envío a punto de recogida",
+        "retail_method_definition": "Envío al por menor",
+        "company_location_no_address_banner": "Los pedidos con envío a ubicaciones sin dirección se enviarán para su revisión.",
+        "none_method_definition": "Sin Envío ",
+        "subscription_pickup_information": "Este método de entrega se aplicará a todos los artículos de este pedido y a todos los pedidos futuros de esta suscripción."
+      },
+      "customer_account": {
+        "not_user_label": "¿No eres {{ first_name }}?",
+        "have_an_account_label": "¿Tienes una cuenta?",
+        "sign_in_link_label": "Iniciar sesión",
+        "sign_out_link_label": "Cerrar sesión",
+        "save_my_information_label": "Guardar esta información para la próxima vez",
+        "invalid_address": "La dirección seleccionada no es válida. {{ update_address_link }} o selecciona una dirección diferente.",
+        "incomplete_address": "La dirección seleccionada no es válida. {{ update_address_link }} o selecciona una dirección diferente.",
+        "rollup_label": "Cuenta",
+        "invalid_shipping_method_summary": "Selecciona una dirección de envío válida para ver los métodos de envío disponibles",
+        "saved_address_option_link": "Usar una dirección guardada",
+        "saved_address_modal_title": "Usar mi dirección guardada"
       }
     },
     "sentence": {
